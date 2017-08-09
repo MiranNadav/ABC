@@ -1,5 +1,3 @@
-package PACKAGE_NAME;
-
 /**
  * Created by nmiran on 09/08/2017.
  */
