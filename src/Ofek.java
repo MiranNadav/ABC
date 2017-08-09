@@ -3,4 +3,6 @@
  */
 public class Ofek {
     private int check;
+    private String ff;
+
 }
